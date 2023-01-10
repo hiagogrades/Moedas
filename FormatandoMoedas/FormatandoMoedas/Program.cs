@@ -13,14 +13,26 @@ namespace FormatandoMoedas
 
             Console.WriteLine(valor);
 
-            //Creando uma especificação de cultura
-            Console.WriteLine(valor.ToString(
-                "C", //Formato de Curence (moeda), converte para moeda real, colocando o $
-                CultureInfo.CreateSpecificCulture("pt-BR")));
+            ////Creando uma especificação de cultura
+            //Console.WriteLine(valor.ToString(
+            //    "C", //Formato de Curence (moeda), converte para moeda real, colocando o $
+            //    CultureInfo.CreateSpecificCulture("pt-BR")));
 
-            Console.WriteLine(valor.ToString(
-                "C", //Formato de Curence (moeda), converte para moeda dolar, colocando o $
-                CultureInfo.CreateSpecificCulture("es-US")));
+            //Console.WriteLine(valor.ToString(
+            //    "C", //Formato de Curence (moeda), converte para moeda dolar, colocando o $
+            //    CultureInfo.CreateSpecificCulture("es-US")));
+
+            //Faz o arredondamento do valor
+            Console.WriteLine("Round = " + Math.Round(valor));
+
+            //Ceiling => Teto, telhado
+            //Faz o arredondamento sempre para "cima"
+            Console.WriteLine("Ceiling = " + Math.Ceiling(valor));
+
+            //Floor => chão
+            //Sempre arredonda para baixo
+            Console.WriteLine("Floor = " + Math.Floor(valor));
+
         }
     }
 }
