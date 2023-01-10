@@ -1,0 +1,16 @@
+C:\Dev\Moedas\FormatandoMoedas\FormatandoMoedas\bin\Debug\net5.0\FormatandoMoedas.exe
+C:\Dev\Moedas\FormatandoMoedas\FormatandoMoedas\bin\Debug\net5.0\FormatandoMoedas.deps.json
+C:\Dev\Moedas\FormatandoMoedas\FormatandoMoedas\bin\Debug\net5.0\FormatandoMoedas.runtimeconfig.json
+C:\Dev\Moedas\FormatandoMoedas\FormatandoMoedas\bin\Debug\net5.0\FormatandoMoedas.runtimeconfig.dev.json
+C:\Dev\Moedas\FormatandoMoedas\FormatandoMoedas\bin\Debug\net5.0\FormatandoMoedas.dll
+C:\Dev\Moedas\FormatandoMoedas\FormatandoMoedas\bin\Debug\net5.0\FormatandoMoedas.pdb
+C:\Dev\Moedas\FormatandoMoedas\FormatandoMoedas\obj\Debug\net5.0\FormatandoMoedas.csproj.AssemblyReference.cache
+C:\Dev\Moedas\FormatandoMoedas\FormatandoMoedas\obj\Debug\net5.0\FormatandoMoedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Moedas\FormatandoMoedas\FormatandoMoedas\obj\Debug\net5.0\FormatandoMoedas.AssemblyInfoInputs.cache
+C:\Dev\Moedas\FormatandoMoedas\FormatandoMoedas\obj\Debug\net5.0\FormatandoMoedas.AssemblyInfo.cs
+C:\Dev\Moedas\FormatandoMoedas\FormatandoMoedas\obj\Debug\net5.0\FormatandoMoedas.csproj.CoreCompileInputs.cache
+C:\Dev\Moedas\FormatandoMoedas\FormatandoMoedas\obj\Debug\net5.0\FormatandoMoedas.dll
+C:\Dev\Moedas\FormatandoMoedas\FormatandoMoedas\obj\Debug\net5.0\refint\FormatandoMoedas.dll
+C:\Dev\Moedas\FormatandoMoedas\FormatandoMoedas\obj\Debug\net5.0\FormatandoMoedas.pdb
+C:\Dev\Moedas\FormatandoMoedas\FormatandoMoedas\obj\Debug\net5.0\FormatandoMoedas.genruntimeconfig.cache
+C:\Dev\Moedas\FormatandoMoedas\FormatandoMoedas\obj\Debug\net5.0\ref\FormatandoMoedas.dll
